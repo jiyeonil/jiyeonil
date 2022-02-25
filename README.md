@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiyeonil
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python and Github
-- 💞️ I’m looking to collaborate on IT rookies !
+- 💞️ I’m looking to collaborate with IT rookies !
 - 📫 How to reach me @uz_year
 
 <!---
